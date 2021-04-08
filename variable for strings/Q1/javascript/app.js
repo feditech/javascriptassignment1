@@ -1,2 +1,3 @@
-alert("Hello world!!!")
-alert("FediTechnologies")
+var message;
+message = "Hello World"
+alert(message)
